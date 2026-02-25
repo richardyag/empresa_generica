@@ -1,0 +1,3 @@
+[submodule "econovex_ar_base"]
+	path = econovex_ar_base
+	url = https://github.com/richardyag/Cliente_base.git
